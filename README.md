@@ -14,4 +14,4 @@ It is based on the new Neumorphic Design.
 [Watch Demo Video Here](https://www.youtube.com/watch?v=LNh9A8FZpXg)
 
 ## Your Feedback
-Please use the cipher app and if come across any bug, if you have any feature suggestion, please open an issue in this repository and I will try to resolve it as soon as possible. If you like this project please 🌟 this repository.
+Please use the cipher app and if you come across any bug, if you have any feature suggestion, please open an issue in this repository and I will try to resolve it as soon as possible. If you like this project please 🌟 this repository.
